@@ -1,2 +1,2 @@
 # crypto.con.currency
-Visualization tool for UCF Senior Design project: Analyzing Blockchain Correctness in a Multithreaded Ethereum Virtual Machine
+A visualization tool for demo of UCF Senior Design project: Analyzing Blockchain Correctness in a Multithreaded Ethereum Virtual Machine
